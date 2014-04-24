@@ -4,6 +4,7 @@ define(function() {
   return {
     argsAsArray : function(fn, arr) {
 
+
     },
 
     speak : function(fn, obj) {
